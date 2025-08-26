@@ -1,0 +1,10 @@
+# Ignore IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
+
+# Ignore dependencies
+node_modules/
+composer.lock
